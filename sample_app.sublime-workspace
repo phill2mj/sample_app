@@ -1,0 +1,197 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"st",
+				"static_pages"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"have",
+				"have_selector"
+			],
+			[
+				"Help",
+				"Help"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mikephillips/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/config/routes.rb",
+		"/Users/mikephillips/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/Users/mikephillips/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/public/index.html",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/Users/mikephillips/rails_projects/sample_app/spec/support/utilities.rb",
+		"/Users/mikephillips/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/Users/mikephillips/rails_projects/sample_app/Gemfile",
+		"/Users/mikephillips/rails_projects/sample_app/example_user.rb",
+		"/Users/mikephillips/rails_projects/sample_app/spec/requests/static_pages_spec.tb",
+		"/Users/mikephillips/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/Users/mikephillips/rails_projects/sample_app/app/views/stati_pages/home.html.erb",
+		"/Users/mikephillips/rails_projects/sample_app/public/hello.html",
+		"/Users/mikephillips/rails_projects/sample_app/.git/COMMIT_EDITMSG",
+		"/Users/mikephillips/rails_projects/sample_app/README.md",
+		"/Users/mikephillips/rails_projects/demo_app/app/models/micropost.rb",
+		"/Users/mikephillips/rails_projects/demo_app/app/models/user.rb",
+		"/Users/mikephillips/rails_projects/demo_app/app/controllers/microposts_controller.rb",
+		"/Users/mikephillips/rails_projects/demo_app/config/routes.rb",
+		"/Users/mikephillips/rails_projects/demo_app/config/routes.db",
+		"/Users/mikephillips/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/Users/mikephillips/rails_projects/demo_app/app/views/users/index.html.erb",
+		"/Users/mikephillips/rails_projects/first_app/Gemfile",
+		"/Users/mikephillips/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/mikephillips/rails_projects/first_app/.gitignore",
+		"/Users/mikephillips/.gemrc",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/troubleshoot copy.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/troubleshoot.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/staff.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/resources.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/office.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/glossary.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/contact.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/announcements.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/about.html",
+		"/Users/mikephillips/Desktop/campusnet/Working 12-1/index.html",
+		"/Users/mikephillips/.rvm/log/ruby-1.9.3-p327/gemset.pristine.log",
+		"/Users/mikephillips/bin/help",
+		"/Users/mikephillips/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/mikephillips/Desktop/untitled.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 119.0,
+	"status_bar_visible": false
+}
